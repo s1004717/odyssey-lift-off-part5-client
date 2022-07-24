@@ -19,10 +19,10 @@ const Header = ({ children }) => {
                 <Logo src={logo} />
               </LogoContainer>
               <Title>
-                <h3>Catstronaut</h3>
-                <div>Kitty space academy</div>
+             
 
-                YA666
+                YA666部屬流程～～～～ya
+
               </Title>
             </HomeButton>
           </HomeLink>
