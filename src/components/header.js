@@ -21,6 +21,8 @@ const Header = ({ children }) => {
               <Title>
                 <h3>Catstronaut</h3>
                 <div>Kitty space academy</div>
+
+                YA666
               </Title>
             </HomeButton>
           </HomeLink>
